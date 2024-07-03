@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/firstwork/static/css/main.a3a5f482.css",
+    "main.js": "/firstwork/static/js/main.b80cb821.js",
+    "index.html": "/firstwork/index.html",
+    "main.a3a5f482.css.map": "/firstwork/static/css/main.a3a5f482.css.map",
+    "main.b80cb821.js.map": "/firstwork/static/js/main.b80cb821.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3a5f482.css",
+    "static/js/main.b80cb821.js"
+  ]
+}
